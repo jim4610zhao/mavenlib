@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".ModuleBActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:text="我是ModuleB"
+        android:textColor="#000"
+        android:gravity="center"
+        />
+
 </android.support.constraint.ConstraintLayout>
